@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1911,15 +1911,15 @@ RectTransform:
   m_GameObject: {fileID: 1163633142}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 6.7424045, y: 5.532857, z: 6.061678}
+  m_LocalScale: {x: 4.1643786, y: 3.4173138, z: 3.7439349}
   m_Children: []
   m_Father: {fileID: 533083334}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.77626336}
-  m_AnchorMax: {x: 0.9308895, y: 0.86543167}
-  m_AnchoredPosition: {x: 152, y: -2.4653}
-  m_SizeDelta: {x: -3281, y: -298.39}
+  m_AnchorMin: {x: 0.37525767, y: 0.8173523}
+  m_AnchorMax: {x: 0.5655561, y: 0.84526336}
+  m_AnchoredPosition: {x: 6, y: -3}
+  m_SizeDelta: {x: -555, y: -80.100006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1163633144
 MonoBehaviour:
@@ -1984,7 +1984,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 0
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2005,7 +2005,7 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -8.513019, y: 0, z: 0, w: 0}
+  m_margin: {x: 0.30341625, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1163633144}
     characterCount: 9
@@ -2049,7 +2049,7 @@ Animator:
   m_GameObject: {fileID: 1163633142}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8bb9d74e54b3fe84a9d2f1813b8ec895, type: 2}
+  m_Controller: {fileID: 9100000, guid: 908ef0a1f17afe44583cceeb097f220c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
